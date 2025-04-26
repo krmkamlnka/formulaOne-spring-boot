@@ -1,2 +1,4 @@
 rootProject.name = 'FormulaOne'
 
+include 'eureka-server', 'race-service', 'api-gateway', 'driver-service', 'team-service'
+
